@@ -1,0 +1,30 @@
+@media (min-width: 1024px) {
+
+}
+
+@media (min-width: 740px) and (max-width: 1023px) {
+
+}
+
+@media (max-width: 1023px) {
+    
+    #contact-main,
+    #footer         {
+        width: 1400px;
+    }
+    .about-me > p,
+    .contact-items {
+        padding: 0 30px;
+    }
+    .contact {
+        max-width: 100%;
+    }
+    .slider,
+    #contact-main {
+        margin-left: -6px;
+    }
+}
+
+@media (max-width: 739px) {
+
+}
